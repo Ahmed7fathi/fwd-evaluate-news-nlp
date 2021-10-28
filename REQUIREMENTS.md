@@ -2,15 +2,15 @@
 
 ### Your project must:
 
-- [ ] Be set up with Webpack, Express, Node, and Sass, and Service Workers
+- [:white_check_mark:] Be set up with Webpack, Express, Node, and Sass, and Service Workers
 
-- [ ] Have separate dev and prod configurations for Webpack
+- [:white_check_mark:] Have separate dev and prod configurations for Webpack
 
-- [ ] Have the developer environment set up with the Webpack dev server
+- [:white_check_mark:] Have the developer environment set up with the Webpack dev server
 
-- [ ] Have a minimum of one form field
+- [:white_check_mark:] Have a minimum of one form field
 
-- [ ] Make one request to the Aylien API
+- [:white_check_mark:] Make one request to the ~~Aylien~~ MeaningCloud API
 
 - [ ] Use Sass for styling
 
