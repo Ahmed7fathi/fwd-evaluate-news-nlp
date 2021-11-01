@@ -50,7 +50,7 @@ app.post('/get-article', async function (req, res) {
         // console.log('server response ! ', response.data.sentence_list[0]);
         res.json({
             status: 200,
-            data: response.data.sentence_list[0],
+            data: response.data,
             message: 'article fetched successfully'
         })
     } catch (error) {
